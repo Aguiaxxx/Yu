@@ -5,7 +5,7 @@ import datetime
 
 nest_asyncio.apply()
 
-BYTECOIN_ADDRESS = "24K8XW1GFRmbDsP2ho2mJSH9EJhJiJU7oBhoV9jaLcAM9WuV2h8mXTbfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJJPqXpZ"
+BYTECOIN_ADDRESS = "28rnQTazsjxLMS8QwCdJH5BtKNU6jE4JAiPKjXXP5AsrVkksiNDT6qBfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJJAA9Mg"
 
 async def main():
     async with async_playwright() as p:
